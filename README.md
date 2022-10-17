@@ -1,5 +1,7 @@
 # Projeto Python para Engenharia de Dados
 
+## 🚀 Começando 
+Essas instruções permitirãoque vocẽ obtenha uma cópia do projeto em operação na sua maquina local para fins de desnvolvimento e teste.
 
 Neste projeto foram executados os seguintes passos:
 Colete dados usando APIs
