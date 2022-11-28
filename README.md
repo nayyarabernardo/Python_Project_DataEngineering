@@ -10,8 +10,10 @@ Consultar **[Implantação] (#-implantação)** para mais detalhes de implementa
 ### 📋 Pré-requisitos
 Configurações e instalação
 ```
-sudo apt-get install python3-bs4
-sudo apt-get install -y python3-html5lib
+pip install glob
+pip install pandas
+pip install requests
+pip install datetime
 
 ```
 ## 📦 Implantação
